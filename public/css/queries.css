@@ -1,0 +1,15 @@
+@media (max-width: 50em) {
+	.container {
+		max-width: 600rem;
+	}
+	.input-box {
+		max-width: 17.5rem;
+	}
+	.btn-submit {
+		max-width: 7rem;
+		margin-left: 5rem;
+	}
+	.label-input {
+		max-width: 5rem;
+	}
+}
